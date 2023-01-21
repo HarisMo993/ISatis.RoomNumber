@@ -1,4 +1,1 @@
 # ISatis.RoomNumber
-
-## Introduction
-
